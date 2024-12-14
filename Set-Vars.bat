@@ -1,6 +1,7 @@
 :NFS-Colors
-    echo Setting colors to your pc environment for temporary use...
-    PING localhost -n 3 >nul
+    cls
+    echo                                                                        Setting colors to your pc environment for temporary use...
+    PING localhost -n 6 >nul
     @echo off
         set COLOR_BLACK=[30m>nul
         set COLOR_BLUE=[34m>nul
@@ -82,4 +83,10 @@
         (
             echo Temp-Set
         )>"%~dp0\ColorSetTemp.txt"
-        timeout /t 3 >nul
+        echo.
+        echo.
+        echo.
+        echo.
+        echo.
+        ECHO                                      %COLOR_BRIGHTCYAN%Colors%COLOR_RESET% have been set to your PC environment for %COLOR_BRIGHTPURPLE%TEMPORARY%COLOR_RESET% use^^!
+        timeout /t 6 >nul
