@@ -61,17 +61,17 @@
     PING localhost -n 1 >nul
     echo.                                                                                                                             
     PING localhost -n 1 >nul
-    echo                    %COLOR_BLINKING_PURPLE%;#F5UU2ZOZ@M%COLOR_RESET%                %COLOR_BLINKING_BRIGHTPURPLE%lXX:  v9P7                :%COLOR_RESET%       %COLOR_BLINKING_PURPLE%,OZPd2.%COLOR_RESET%                                      
+    echo                    %COLOR_SLB_PURPLE%;#F5UU2ZOZ@M%COLOR_RESET%                %COLOR_FBLK_BRIGHTPURPLE%lXX:  v9P7                :%COLOR_RESET%       %COLOR_SLB_PURPLE%,OZPd2.%COLOR_RESET%                                      
     PING localhost -n 1 >nul
-    echo                    %COLOR_BLINKING_PURPLE%DM 0@G @YY@C,7.    77;%COLOR_RESET%      %COLOR_BLINKING_BRIGHTPURPLE%.@@@  .@;  .77, 77:  Y7.;M@7%COLOR_RESET%      %COLOR_BLINKING_PURPLE%0@5  h@Y   77; :;;.;7. 77.%COLOR_RESET%                    
+    echo                    %COLOR_SLB_PURPLE%DM 0@G @YY@C,7.    77;%COLOR_RESET%      %COLOR_FBLK_BRIGHTPURPLE%.@@@  .@;  .77, 77:  Y7.;M@7%COLOR_RESET%      %COLOR_SLB_PURPLE%0@5  h@Y   77; :;;.;7. 77.%COLOR_RESET%                    
     PING localhost -n 2 >nul
-    echo                       %COLOR_BLINKING_PURPLE%@@.   M@Cl@@  l@;E@Z%COLOR_RESET%     %COLOR_BLINKING_BRIGHTPURPLE%78;@d ;@  h@:@@:;@@;hD::@@lv%COLOR_RESET%     %COLOR_BLINKING_PURPLE%M@Y       7@71@9 @@Ml@@5F@@%COLOR_RESET%                    
+    echo                       %COLOR_SLB_PURPLE%@@.   M@Cl@@  l@;E@Z%COLOR_RESET%     %COLOR_FBLK_BRIGHTPURPLE%78;@d ;@  h@:@@:;@@;hD::@@lv%COLOR_RESET%     %COLOR_SLB_PURPLE%M@Y       7@71@9 @@Ml@@5F@@%COLOR_RESET%                    
     PING localhost -n 1 >nul
-    echo                      %COLOR_BLINKING_PURPLE%;@8   ;@8 .@9 Y@h;DG.%COLOR_RESET%     %COLOR_BLINKING_BRIGHTPURPLE%@v l@TbY b@lYbs  ,@@;   @@%COLOR_RESET%      %COLOR_BLINKING_PURPLE%:@@  7dMh;;@@;E9  @@  @M ;@O%COLOR_RESET%                    
+    echo                      %COLOR_SLB_PURPLE%;@8   ;@8 .@9 Y@h;DG.%COLOR_RESET%     %COLOR_FBLK_BRIGHTPURPLE%@v l@TbY b@lYbs  ,@@;   @@%COLOR_RESET%      %COLOR_SLB_PURPLE%:@@  7dMh;;@@;E9  @@  @M ;@O%COLOR_RESET%                    
     PING localhost -n 1 >nul
-    echo                      %COLOR_BLINKING_PURPLE%d@T   8@7 b@7 h@2 .,%COLOR_RESET%     %COLOR_BLINKING_BRIGHTPURPLE%.@   D@@  @@; ,  :09@S  2@2%COLOR_RESET%      %COLOR_BLINKING_PURPLE%.@@,  @@; C@0  , 5@5 G@7 @@;%COLOR_RESET%                    
+    echo                      %COLOR_SLB_PURPLE%d@T   8@7 b@7 h@2 .,%COLOR_RESET%     %COLOR_FBLK_BRIGHTPURPLE%.@   D@@  @@; ,  :09@S  2@2%COLOR_RESET%      %COLOR_SLB_PURPLE%.@@,  @@; C@0  , 5@5 G@7 @@;%COLOR_RESET%                    
     PING localhost -n 1 >nul
-    echo                    %COLOR_BLINKING_PURPLE%,9@@9:  @@  5@#; PMZhs%COLOR_RESET%    %COLOR_BLINKING_BRIGHTPURPLE%YM@T   @9  ;MDZP;U@. b@U ;@M9:%COLOR_RESET%     %COLOR_BLINKING_PURPLE%:E@Gh@Z   XMZ95 #@. M@, G@#7%COLOR_RESET%                   
+    echo                    %COLOR_SLB_PURPLE%,9@@9:  @@  5@#; PMZhs%COLOR_RESET%    %COLOR_FBLK_BRIGHTPURPLE%YM@T   @9  ;MDZP;U@. b@U ;@M9:%COLOR_RESET%     %COLOR_SLB_PURPLE%:E@Gh@Z   XMZ95 #@. M@, G@#7%COLOR_RESET%                   
     PING localhost -n 1 >nul
     echo.                                                                                                                             
     PING localhost -n 2 >nul
@@ -85,42 +85,22 @@
     PING localhost -n 1 >nul
     echo.                                                                                                                             
     PING localhost -n 1 >nul
-    echo                  %COLOR_BLINKING_BRIGHTPURPLE%7ZG#P,                        :%COLOR_RESET%               %COLOR_BLINKING_PURPLE%,5GZdS,                      s@S%COLOR_RESET%                              
+    echo                  %COLOR_FBLK_BRIGHTPURPLE%7ZG#P,                        :%COLOR_RESET%               %COLOR_SLB_PURPLE%,5GZdS,                      s@S%COLOR_RESET%                              
     PING localhost -n 1 >nul
-    echo                %COLOR_BLINKING_BRIGHTPURPLE%:@@; C@X:;.,7;;;,  7, ;;.,7;  :C@S.  ;Y7%COLOR_RESET%       %COLOR_BLINKING_PURPLE%9@U  9@c   ;Y:,: ;;:.;;  77  ;7l. ;;.,7;    77:Y8.%COLOR_RESET%             
+    echo                %COLOR_FBLK_BRIGHTPURPLE%:@@; C@X:;.,7;;;,  7, ;;.,7;  :C@S.  ;Y7%COLOR_RESET%       %COLOR_SLB_PURPLE%9@U  9@c   ;Y:,: ;;:.;;  77  ;7l. ;;.,7;    77:Y8.%COLOR_RESET%             
     PING localhost -n 1 >nul
-    echo                %COLOR_BLINKING_BRIGHTPURPLE%@@.     9@@S@@C@@  @@ G@@v#@s #@d7 ;@@7@@;%COLOR_RESET%    %COLOR_BLINKING_PURPLE%#@l       7@M;@@5 c@@O9@@Y@@S 7@@  @@@c@@; ;@57@@Y%COLOR_RESET%              
+    echo                %COLOR_FBLK_BRIGHTPURPLE%@@.     9@@S@@C@@  @@ G@@v#@s #@d7 ;@@7@@;%COLOR_RESET%    %COLOR_SLB_PURPLE%#@l       7@M;@@5 c@@O9@@Y@@S 7@@  @@@c@@; ;@57@@Y%COLOR_RESET%              
     PING localhost -n 1 >nul
-    echo               %COLOR_BLINKING_BRIGHTPURPLE%C@h      Z@S    d@; @l C@7 ;@F P@,  @@  C@F%COLOR_RESET%   %COLOR_BLINKING_PURPLE%,@@  7#dD;.@@  @@  ;@9 7@1 Z@; :@P  @@, @@  O@ Y@;%COLOR_RESET%               
+    echo               %COLOR_FBLK_BRIGHTPURPLE%C@h      Z@S    d@; @l C@7 ;@F P@,  @@  C@F%COLOR_RESET%   %COLOR_SLB_PURPLE%,@@  7#dD;.@@  @@  ;@9 7@1 Z@; :@P  @@, @@  O@ Y@;%COLOR_RESET%               
     PING localhost -n 2 >nul
-    echo               %COLOR_BLINKING_BRIGHTPURPLE%7@@   7. @@     :@GGO  @@  @@  @@  7@b  @@%COLOR_RESET%     %COLOR_BLINKING_PURPLE%@@:  @@7 5@S X@h  @@: @@  @@  d@7 ;@b ;@D  Sbv7%COLOR_RESET%                 
+    echo               %COLOR_FBLK_BRIGHTPURPLE%7@@   7. @@     :@GGO  @@  @@  @@  7@b  @@%COLOR_RESET%     %COLOR_SLB_PURPLE%@@:  @@7 5@S X@h  @@: @@  @@  d@7 ;@b ;@D  Sbv7%COLOR_RESET%                 
     PING localhost -n 1 >nul
-    echo                %COLOR_BLINKING_BRIGHTPURPLE%7M@MM8 7@U      @@s  7@8lME. .@@07 F@0@Z%COLOR_RESET%      %COLOR_BLINKING_PURPLE%,0@E9@E  .@@O1@@T.@@ .@@  @@Z 1@d;S@7 ;@Mc;@d0hD,%COLOR_RESET%               
+    echo                %COLOR_FBLK_BRIGHTPURPLE%7M@MM8 7@U      @@s  7@8lME. .@@07 F@0@Z%COLOR_RESET%      %COLOR_SLB_PURPLE%,0@E9@E  .@@O1@@T.@@ .@@  @@Z 1@d;S@7 ;@Mc;@d0hD,%COLOR_RESET%               
     PING localhost -n 1 >nul
-    echo                            %COLOR_BLINKING_BRIGHTPURPLE%, ;F@;   @@7%COLOR_RESET%                                                               %COLOR_BLINKING_PURPLE%Y@v  M@7%COLOR_RESET%               
+    echo                            %COLOR_FBLK_BRIGHTPURPLE%, ;F@;   @@7%COLOR_RESET%                                                               %COLOR_SLB_PURPLE%Y@v  M@7%COLOR_RESET%               
     PING localhost -n 1 >nul
-    echo                           %COLOR_BLINKING_BRIGHTPURPLE%,90Es     DEO%COLOR_RESET%.                                                              %COLOR_BLINKING_PURPLE%.lF55T,%COLOR_RESET%                
+    echo                           %COLOR_FBLK_BRIGHTPURPLE%,90Es     DEO%COLOR_RESET%.                                                              %COLOR_SLB_PURPLE%.lF55T,%COLOR_RESET%                
     PING localhost -n 1 >nul
     echo.
-    echo.      
-    ECHO.
-    ECHO.
-    ECHO.
-    ECHO.
-    ECHO %COLOR_BRIGHTWHITE%Press%COLOR_RESET% %COLOR_BRIGHTCYAN%any%COLOR_RESET% %COLOR_BRIGHTWHITE%key to continue.%COLOR_RESET%
-    ECHO.
-    ECHO.
-    ECHO.
-    timeout /T 6 >nul
-                                                                                                                             
-                                                                                                                             
-                                                                                                                             
-                                                                                                                             
-                                                                                                                             
-                                                                                                                             
-                                                                                                                             
-                                                                                                                             
-                                                                                                                             
-                                                                                                                             
-                                                                                                                             
-                                                                                                                             
+    echo.
+    pause >nul
