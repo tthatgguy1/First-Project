@@ -56,6 +56,8 @@
         setx COLOR_BG_GREEN [42m>nul
         setx COLOR_BG_PURPLE [45m>nul
         setx COLOR_BG_RED [41m>nul
+        setx COLOR_BG_BLK_RED [1;5;41m>nul
+        setx COLOR_BG_BLK2_RED [1;6;41m>nul
         setx COLOR_BG_WHITE [47m>nul
         setx COLOR_BG_YELLOW [43m>nul
         setx COLOR_RESET [0m>nul
