@@ -1,7 +1,7 @@
 :NFS-Colors
     @echo off
     PING localhost -n 4 >nul
-    echo                                             Saving %COLOR_BRIGHTCYAN%colors%COLOR_RESET% to your PC environment^^!
+    echo             Saving %COLOR_BRIGHTCYAN%colors%COLOR_RESET% to your PC environment^^!
     setx COLOR_BLACK [30m>nul
     setx COLOR_BLUE [34m>nul
     setx COLOR_CYAN [36m>nul
@@ -89,5 +89,5 @@
     echo.
     echo.
     echo.
-    echo                                                    %COLOR_BRIGHTCYAN%Colors%COLOR_RESET% have been %COLOR_FBLK_BRIGHTGREEN%saved%COLOR_RESET% to your PC environment^^!
+    echo             %COLOR_BRIGHTCYAN%Colors%COLOR_RESET% have been %COLOR_FBLK_BRIGHTGREEN%saved%COLOR_RESET% to your PC environment^^!
     CLS
