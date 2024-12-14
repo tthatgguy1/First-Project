@@ -1,6 +1,6 @@
 :NFS-Colors
     @echo off
-        echo Setting colors to your 
+        echo Setting colors to your PC environment^^!
         PING localhost -n 3 >nul
         setx COLOR_BLACK [30m>nul
         setx COLOR_BLUE [34m>nul
