@@ -60,28 +60,23 @@
         set COLOR_BG_YELLOW=[43m>nul
         set COLOR_RESET=[0m>nul
         set COLOR=[
-        set COLOR_RESET=%COLOR%0m
         set COLOR_GEMS=%COLOR%38;2;209;69;255m
-        set COLOR_GREEN=%COLOR%38;2;72;255;0m
-        set COLOR_RED=%COLOR%38;2;255;35;35m
         set COLOR_AQUA=%COLOR%38;2;13;182;255m
-        set COLOR_BLUE=%COLOR%38;2;0;76;255m
         set COLOR_DARK_GRAY=%COLOR%38;2;100;100;100m
         set COLOR_GRAY=%COLOR%38;2;125;125;125m
         set COLOR_LIGHT_GRAY=%COLOR%38;2;150;150;150m
-        set COLOR_YELLOW=%COLOR%38;2;229;232;81m
         set COLOR_DARK_GREEN=%COLOR%38;2;0;201;71m
         set COLOR_DEFAULT=%COLOR%38;2;200;200;200m
         set COLOR_ORANGE=%COLOR%38;2;252;186;3m
         set COLOR_LOGO=%COLOR%38;2;0;227;57m
         set COLOR_BASICMINER=%COLOR%38;2;255;255;255m
         set COLOR_SILVERMINER=%COLOR%38;2;175;175;175m
-        set COLOR_IRONMINER=%COLOR%38;2;125;125;125m
-        set COLOR_GOLDMINER=%COLOR%38;2;255;215;0m
+        set COLOR_IRONMINER=%COLOR%38;2;165;156;148m
+        set COLOR_GOLDMINER=%COLOR%38;2;203;161;53m
         set COLOR_DIAMONDMINER=%COLOR%38;2;63;208;224m
         set COLOR_EMERALDMINER=%COLOR%38;2;0;201;71m
         set COLOR_DARKMATTERMINER=%COLOR%38;2;118;64;255m
-        CLS
+        cls
         (
             echo Temp-Set
         )>"%~dp0\ColorSetTemp.txt"
