@@ -102,8 +102,16 @@
     echo                           %COLOR_BLINKING_BRIGHTPURPLE%,90Es     DEO%COLOR_RESET%.                                                              %COLOR_BLINKING_PURPLE%.lF55T,%COLOR_RESET%                
     PING localhost -n 1 >nul
     echo.
-    echo.
-    pause >nul
+    echo.      
+    ECHO.
+    ECHO.
+    ECHO.
+    ECHO.
+    ECHO %COLOR_BRIGHTWHITE%Press%COLOR_RESET% %COLOR_BRIGHTCYAN%any%COLOR_RESET% %COLOR_BRIGHTWHITE%key to continue.%COLOR_RESET%
+    ECHO.
+    ECHO.
+    ECHO.
+    timeout /T 6 >nul
                                                                                                                              
                                                                                                                              
                                                                                                                              
