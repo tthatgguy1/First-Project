@@ -33,7 +33,7 @@
     PING localhost -n 1 >nul
     echo                                              %COLOR_GOLDMINER%.@;%COLOR_RESET%%COLOR_BRIGHTYELLOW%7MU8@8@0@@@OM@@@@Uh@EC@@@%COLOR_RESET%                                                   
     PING localhost -n 1 >nul
-    echo                                              %COLOR_GOLDMINER%@7 %COLOR_RESET%F7l79,2,%COLOR_BG_RED% .. %COLOR_RESET%sl@@@%COLOR_BG_RED%: : %COLOR_RESET%  #5. %COLOR_GOLDMINER%.;.%COLOR_RESET%                                               
+    echo                                              %COLOR_GOLDMINER%@7 %COLOR_RESET%F7l79,2,%COLOR_BG_BLK_RED% .. %COLOR_RESET%sl@@@%COLOR_BG_BLK2_RED%: : %COLOR_RESET%  #5. %COLOR_GOLDMINER%.;.%COLOR_RESET%                                               
     PING localhost -n 1 >nul
     echo                                            %COLOR_GOLDMINER%.@7 %COLOR_GOLDMINER%:;%COLOR_RESET%SO    .     v7       .  %COLOR_GOLDMINER%cU7: ;M%COLOR_RESET%                                            
     PING localhost -n 2 >nul
