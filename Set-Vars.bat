@@ -83,6 +83,6 @@
         set COLOR_DARKMATTERMINER=%COLOR%38;2;118;64;255m
         CLS
         (
-            Temp Set
+            echo Temp-Set
         )>"%~dp0\ColorSetTemp.txt"
         timeout /t 3 >nul
