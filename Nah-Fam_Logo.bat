@@ -105,29 +105,7 @@
       ECHO                                 %COLOR_BRIGHTCYAN%iIBBBBBBBQQBBB5:            :UBBQMRMQMQRQMQRQRQQBBBBBBgv.%COLOR_RESET%             .MBBi      rBd.BX    rBr:::..    ..              
       PING localhost -n 1 >nul                                                                                                                           
       ECHO                             %COLOR_BRIGHTCYAN%rZBBBBBBQQQQRQMQQBBBBBQDPPKdDBBBBBBQRRMQRQRQMQgRMQRQMQQBBBBBBBBU:%COLOR_RESET%       rBBP.  ...  QBr   BBL. .BU                         
-      PING localhost -n 1 >nul                                                                                                                           
-      ECHO                           %COLOR_BRIGHTCYAN%qBBQBBBBBBQRRRQMQMQRQQBBBBBBBBBBBBBQQRQRQMQMQRQRQMRRQMRMQMQQQQBBBBBBBr%COLOR_RESET%  UQBv    ... :BB      .XQQr iBi                       
-      PING localhost -n 1 >nul                                                                                                                           
-      ECHO                          %COLOR_BRIGHTCYAN%BQBQQRRMRgMgQMQMQMQRQMQRQRQRQQBBBBBBBQQRQRQRQRQgQBQMQRQRQMQMQMQMQRQQBBd%COLOR_RESET% BB:   ..... iBI          .PBruB                     
-      PING localhost -n 1 >nul                                                                                                                           
-      ECHO                         %COLOR_BRIGHTCYAN%vBBMQMQgQMRMQMQMQMQMRRQMQMQMQRBBB7::PBBRQMQRQMQMRgBQRRQMQMQMQMRRRRQMQQBBBB%COLOR_RESET%  ......  7QY              dBi                       
-      PING localhost -n 1 >nul                                                                                                                           
-      ECHO                         %COLOR_BRIGHTCYAN%BBQQRQMQMQMQRQMQRQRRMQRQRQRQMQBM     :BBQQMQRQRQMRBBgQRQRQMQRQRRRQMQMBB:B.%COLOR_RESET% .....   PBi                                         
-      PING localhost -n 1 >nul                                                                                                                           
-      ECHO                         %COLOR_BRIGHTCYAN%BBQRQMRRQMQMQMRRQRQMRRQMRMRMQQBi      BBBRQRRMRMQgBBBBBBBRQMQMRMRMQRBBu .%COLOR_RESET%  ..    .BB                                           
-      PING localhost -n 1 >nul                                                                                                                           
-      ECHO                        %COLOR_BRIGHTCYAN%7QBMRMRRQMQRQMRMQRQMQMQMRMRRQRBBb      ::MBMQRQRRMRBB:PQBBBBBQQRQRQMQQB%COLOR_RESET%         7BBK                                           
-      PING localhost -n 1 >nul                                                                                                                           
-      ECHO                        %COLOR_BRIGHTCYAN%QBQQMRRQMRRQRRMQMQMQMQMQMQMQMQB:        YBBQRRRQRRMBB   .YQBBBBBBQQBBB%COLOR_RESET%      iqBBQs                                             
-      PING localhost -n 1 >nul                                                                                                                           
-      ECHO                        %COLOR_BRIGHTCYAN%BBQRQMQMQRQRQRQMQRRMQRQMQMQRQMBBM       gBBQQRQMQMQBB       .LMBBQBBB%COLOR_RESET%BZBBBBBBbi                                                 
-      PING localhost -n 1 >nul                                                                                                                           
-      ECHO                       %COLOR_BRIGHTCYAN%rBBQQMQRQMQRRgBBRRRRRRRRQMQRQMQBBb         LBQQMQRQMBB            rd7%COLOR_RESET%  .:::..                                                    
-      PING localhost -n 1 >nul                                                                                                                           
-      ECHO                       %COLOR_BRIGHTCYAN%QBRQMRMQMQRQMMBBgQRQMQMQRQRQRRQB:          rBBMQMRMQBB%COLOR_RESET%                                                                           
-      PING localhost -n 1 >nul                                                                                                                           
-      ECHO                       %COLOR_BRIGHTCYAN%BBQRQMQMQMQMRMBQRgQMRMQMQMQMRRBBJ.      .1BBBMRMQMRQBP%COLOR_RESET%                                                                           
-      PING localhost -n 1 >nul                                                                                                                                                                                                    
+      PING localhost -n 1 >nul                                                                                                                                                                                                                                                                                                                                                                                
       ECHO.
       ECHO.
       ECHO.
