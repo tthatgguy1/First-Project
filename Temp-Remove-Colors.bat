@@ -1,26 +1,7 @@
-:Colors2
-        cls
-        echo Removing colors...
-        set COLOR_GEMS=%COLOR%38;2;200;200;200m
-        set COLOR_CUSTOM_GREEN=%COLOR%38;2;200;200;200m
-        set COLOR_CUSTOM_RED=%COLOR%38;2;200;200;200m
-        set COLOR_CUSTOM_AQUA=%COLOR%38;2;200;200;200m
-        set COLOR_CUSTOM_BLUE=%COLOR%38;2;200;200;200m
-        set COLOR_DARK_GRAY=%COLOR%38;2;200;200;200m
-        set COLOR_GRAY=%COLOR%38;2;200;200;200m
-        set COLOR_CUSTOM_YELLOW=%COLOR%38;2;200;200;200m
-        set COLOR_DARK_GREEN=%COLOR%38;2;200;200;200m
-        set COLOR_DEFAULT=%COLOR%38;2;200;200;200m
-        set COLOR_ORANGE=%COLOR%38;2;200;200;200m
-        set COLOR_LOGO=%COLOR%38;2;200;200;200m
-        set COLOR_BASICMINER=%COLOR%38;2;255;255;255m
-        set COLOR_SILVERMINER=%COLOR%38;2;255;255;255m
-        set COLOR_IRONMINER=%COLOR%38;2;255;255;255m
-        set COLOR_GOLDMINER=%COLOR%38;2;255;255;255m
-        set COLOR_SHEEN_GOLDMINER=%COLOR%38;2;255;255;255m
-        set COLOR_DIAMONDMINER=%COLOR%38;2;255;255;255m
-        set COLOR_EMERALDMINER=%COLOR%38;2;255;255;255m
-        set COLOR_DARKMATTERMINER=%COLOR%338;2;255;255;255m
+:NFS-Colors
+        echo                                                       Removing all colors...
+        timeout /t nobreak 6 >nul
+        @echo off
         set COLOR_BLACK=[37m>nul
         set COLOR_BLUE=[37m>nul
         set COLOR_CYAN=[37m>nul
@@ -69,4 +50,26 @@
         set COLOR_SLB_BRIGHTRED=[1;5;37m>nul
         set COLOR_SLB_BRIGHTWHITE=[1;5;37m>nul
         set COLOR_SLB_BRIGHTYELLOW=[1;5;37m>nul
-        CLS
+        set COLOR_GEMS=%COLOR%38;2;200;200;200m
+        set COLOR_AQUA=%COLOR%38;2;13;182;255m
+        set COLOR_DARK_GRAY=%COLOR%38;2;100;100;100m
+        set COLOR_GRAY=%COLOR%38;2;125;125;125m
+        set COLOR_LIGHT_GRAY=%COLOR%38;2;150;150;150m
+        set COLOR_DARK_GREEN=%COLOR%38;2;200;200;200m
+        set COLOR_DEFAULT=%COLOR%38;2;200;200;200m
+        set COLOR_ORANGE=%COLOR%38;2;200;200;200m
+        set COLOR_BRIGHTORANGE=%COLOR%38;2;200;200;200m
+        set COLOR_LOGO=%COLOR%38;2;200;200;200m
+        set COLOR_BASICMINER=%COLOR%38;2;200;200;200m
+        set COLOR_SILVERMINER=%COLOR%38;2;200;200;200m
+        set COLOR_IRONMINER=%COLOR%38;2;200;200;200m
+        set COLOR_GOLDMINER=%COLOR%38;2;200;200;200m
+        set COLOR_DIAMONDMINER=%COLOR%38;2;200;200;200m
+        set COLOR_EMERALDMINER=%COLOR%38;2;200;200;200m
+        set COLOR_DARKMATTERMINER=%COLOR%38;2;200;200;200m
+        echo.
+        echo.
+        echo.
+        echo.
+        echo.
+        timeout /t nobreak 6 >nul
