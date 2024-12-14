@@ -1,5 +1,5 @@
 :NFS-Colors
-    echo                                                                        Setting colors to your pc environment for temporary use...
+      ECHO                                      Setting colors to your pc environment for temporary use...
     PING localhost -n 6 >nul
     @echo off
         set COLOR_BLACK=[30m>nul
