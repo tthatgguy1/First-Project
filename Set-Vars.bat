@@ -1,5 +1,4 @@
 :NFS-Colors
-    cls
     echo                                                                        Setting colors to your pc environment for temporary use...
     PING localhost -n 6 >nul
     @echo off
@@ -71,6 +70,7 @@
         set COLOR_DARK_GREEN=%COLOR%38;2;0;201;71m
         set COLOR_DEFAULT=%COLOR%38;2;200;200;200m
         set COLOR_ORANGE=%COLOR%38;2;252;129;3m
+        set COLOR_BRIGHTORANGE=%COLOR%38;2;255;162;0m
         set COLOR_LOGO=%COLOR%38;2;0;227;57m
         set COLOR_BASICMINER=%COLOR%38;2;0;51;102m
         set COLOR_SILVERMINER=%COLOR%38;2;175;175;175m
@@ -79,7 +79,6 @@
         set COLOR_DIAMONDMINER=%COLOR%38;2;63;208;224m
         set COLOR_EMERALDMINER=%COLOR%38;2;0;201;71m
         set COLOR_DARKMATTERMINER=%COLOR%38;2;118;64;255m
-        cls
         (
             echo Temp-Set
         )>"%~dp0\ColorSetTemp.txt"
