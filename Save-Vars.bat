@@ -81,7 +81,7 @@
         setx COLOR_EMERALDMINER %COLOR%38;2;0;201;71m
         setx COLOR_DARKMATTERMINER %COLOR%38;2;118;64;255m
         (
-            PermColorSet
+           echo PermColorSet
         )>"%~dp0\ColorSave.txt"
         echo.
         echo.
