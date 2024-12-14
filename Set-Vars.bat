@@ -84,5 +84,5 @@
         CLS
         (
             Temp Set
-        )>"%~dp0\data\ColorSetTemp.txt"
+        )>"%~dp0\ColorSetTemp.txt"
         timeout /t 3 >nul
