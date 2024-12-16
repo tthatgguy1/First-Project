@@ -41,7 +41,7 @@ read bxx
 
 case $bxx in
 
-	1) echo ""  "Are you sure you want to '\033[4;31mDelete\033[0m' all the data in Torrent-Downloads folder(\033[0;6;93mY033[0m'033[1;96m/033[0m'033[0;6;91mn033[0m')"
+	1) echo     "Are you sure you want to '\033[4;31mDelete\033[0m' all the data in Torrent-Downloads folder(\033[0;6;93mY033[0m'033[1;96m/033[0m'033[0;6;91mn033[0m')"
 	
 	read xconf
 
