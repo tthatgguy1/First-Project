@@ -68,7 +68,7 @@ echo ""
 echo ""
 echo ""
 echo ""
-echo "                   " ['█████'..................................] |lolcat 
+echo "                  " ['█████'..................................] |lolcat 
 sleep 0.5
 clear
 echo ""
@@ -112,7 +112,7 @@ echo ""
 echo ""
 echo ""
 echo ""
-echo "                   " ['██████████'..............................] |lolcat
+echo "                    " ['██████████'..............................] |lolcat
 sleep 0.5
 clear
 echo ""
@@ -134,7 +134,7 @@ echo ""
 echo ""
 echo ""
 echo ""
-echo "                   " ['████████████'............................] |lolcat
+echo "                    " ['████████████'............................] |lolcat
 sleep 0.7
 clear
 echo ""
@@ -156,7 +156,7 @@ echo ""
 echo ""
 echo ""
 echo ""
-echo "                   " ['██████████████'..........................] |lolcat
+echo "                    " ['██████████████'..........................] |lolcat
 sleep 1.6
 clear
 echo ""
@@ -178,8 +178,7 @@ echo ""
 echo ""
 echo ""
 echo ""
-echo ""
-echo "                   " ['██████████████'..........................] |lolcat
+echo "                    " ['██████████████'..........................] |lolcat
 sleep 0.5
 clear
 echo ""
@@ -201,32 +200,7 @@ echo ""
 echo ""
 echo ""
 echo ""
-echo ""
-echo "                   " ['████████████████'........................] |lolcat
-sleep 0.5
-clear
-echo ""
-echo ""
-echo ""
-echo ""
-echo ""
-echo ""
-echo ""
-echo ""
-echo ""
-echo ""
-echo ""
-echo '
-                                     ┬  ┌─┐┌─┐┌┬┐┬┌┐┌┌─┐
-                                     │  │ │├─┤ │││││││ ┬
-                                     ┴─┘└─┘┴ ┴─┴┘┴┘└┘└─┘
-'                            
-echo ""
-echo ""
-echo ""
-echo ""
-echo ""
-echo "                   " ['██████████████████'......................] |lolcat 
+echo "                    " ['████████████████'........................] |lolcat
 sleep 0.5
 clear
 echo ""
@@ -249,8 +223,7 @@ echo ""
 echo ""
 echo ""
 echo ""
-echo ""
-echo "                   " ['████████████████████'....................] |lolcat 
+echo "                    " ['██████████████████'......................] |lolcat 
 sleep 0.5
 clear
 echo ""
@@ -273,8 +246,7 @@ echo ""
 echo ""
 echo ""
 echo ""
-echo ""
-echo "                   " ['██████████████████████'..................] |lolcat
+echo "                    " ['████████████████████'....................] |lolcat 
 sleep 0.5
 clear
 echo ""
@@ -297,8 +269,7 @@ echo ""
 echo ""
 echo ""
 echo ""
-echo ""
-echo "                   " ['████████████████████████'................] |lolcat
+echo "                    " ['██████████████████████'..................] |lolcat
 sleep 0.5
 clear
 echo ""
@@ -321,8 +292,7 @@ echo ""
 echo ""
 echo ""
 echo ""
-echo ""
-echo "                   " ['████████████████████████████'............] |lolcat
+echo "                    " ['████████████████████████'................] |lolcat
 sleep 0.5
 clear
 echo ""
@@ -342,6 +312,28 @@ echo '
                                      ┴─┘└─┘┴ ┴─┴┘┴┘└┘└─┘
 '                            
 echo ""
+echo ""
+echo ""
+echo ""
+echo "                    " ['████████████████████████████'............] |lolcat
+sleep 0.5
+clear
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo '
+                                     ┬  ┌─┐┌─┐┌┬┐┬┌┐┌┌─┐
+                                     │  │ │├─┤ │││││││ ┬
+                                     ┴─┘└─┘┴ ┴─┴┘┴┘└┘└─┘
+'                            
 echo ""
 echo ""
 echo ""
@@ -369,8 +361,7 @@ echo ""
 echo ""
 echo ""
 echo ""
-echo ""
-echo "                   " ['██████████████████████████████'..........] |lolcat 
+echo "                    " ['██████████████████████████████'..........] |lolcat 
 sleep 0.5
 clear
 echo ""
@@ -389,7 +380,6 @@ echo '
                                      │  │ │├─┤ │││││││ ┬
                                      ┴─┘└─┘┴ ┴─┴┘┴┘└┘└─┘
 '                            
-echo ""
 echo ""
 echo ""
 echo ""
@@ -417,8 +407,7 @@ echo ""
 echo ""
 echo ""
 echo ""
-echo ""
-echo "                   " ['██████████████████████████████████████'..] |lolcat 
+echo "                    " ['██████████████████████████████████████'..] |lolcat 
 sleep 0.5
 clear
 echo ""
@@ -441,8 +430,7 @@ echo ""
 echo ""
 echo ""
 echo ""
-echo ""
-echo "                   " ['████████████████████████████████████████'] |lolcat 
+echo "                    " ['████████████████████████████████████████'] |lolcat 
 sleep 0.5
 clear
 echo ""
