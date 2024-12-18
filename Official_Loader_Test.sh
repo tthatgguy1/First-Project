@@ -480,13 +480,13 @@ echo ""
 sleep 0.5
 mpv /sdcard/scifi.mp3
 clear
-cowsay -f eyes Daddy | lolcat
-toilet -f big '  Boss' -F gay | lolcat
+cowsay -f eyes Nelson | lolcat
+toilet -f big '  Seth' -F gay | lolcat
 echo ""
 echo ""
-echo ""
-date'
-echo ""
+echo " "
+date
+echo " "
 echo ' ⚡  Nah-Fam Studios  ⚡ '  |lolcat
 echo ""
 echo ""
